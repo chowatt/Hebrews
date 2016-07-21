@@ -64,7 +64,7 @@ Be imitators. Sets up his further discussion in chapter 11.
 
 As the author encourages the readers to maintain their faith by imitating those who inherit God’s promises, we now turn to the father of the faithful, Abraham, and the promises that God made to him.
 
-Abraham is rightly a man of faith, and believed. This is seen that he patiently waited for the promise to be fulfilled. However, 13-20 deals more specifically with the one who made the promise and answers the questions concerning: how can we know that the promises are trustworthy? The answer is found in the nature and character of God.
+Abraham is rightly a man of faith, and believed. This is seen that he patiently waited for the promise to be fulfilled. However, 13-20 deals more specifically with the one who made the promise and answers the questions concerning: how can we know that the promises are trustworthy? The answer is found in the nature and character of God. [1]
 
 ### The Particular Promise Made
 
@@ -81,3 +81,5 @@ In this case, God wanted to show the power of his oath, so he did so through swe
 ### Our faith is not in a weak foundation
 
 Because of what Jesus did, we have a foundation of hope that cannot be moved. Jesus became a high priest, by the unchangeable oath of God and his is forever that priest after the order of Melchizedek.
+
+[1]: Some footnote text goes here
